@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/gcm-master/client-libraries/java/rest-client/lib/mockito-all-1.8.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gcm-master/client-libraries/java/rest-client/lib/json_simple-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gcm-master/client-libraries/java/rest-client/lib/junit.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

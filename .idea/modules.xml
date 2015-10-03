@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/gcm-master/samples/android/gcm-demo/src/main/main.iml" filepath="$PROJECT_DIR$/gcm-master/samples/android/gcm-demo/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gcm-master/client-libraries/java/rest-client/rest-client.iml" filepath="$PROJECT_DIR$/gcm-master/client-libraries/java/rest-client/rest-client.iml" />
+    </modules>
+  </component>
+</project>
+
